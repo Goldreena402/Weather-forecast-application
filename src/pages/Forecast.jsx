@@ -39,7 +39,7 @@ const Forecast = ({ forecast, loading, error, units, city }) => {
       <div className="max-w-6xl mx-auto px-4 py-8">
         <div className="text-center py-16">
           <h2 className="text-3xl font-semibold text-white mb-4">
-            No Forecast Data Available
+             There is No Forecast Data Available
           </h2>
           <p className="text-white/70 text-lg mb-6">
             Please search for a city first

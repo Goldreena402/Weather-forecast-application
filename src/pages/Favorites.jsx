@@ -23,7 +23,7 @@ const Favorites = ({
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-white mb-2">Favorite Cities</h1>
         <p className="text-white/70">
-          Click on a city to view its weather
+          Click on any city to view its weather
         </p>
       </div>
 

@@ -78,7 +78,7 @@ const Home = ({
       {!loading && !error && !currentWeather && (
         <div className="text-center py-16">
           <h2 className="text-3xl font-semibold text-white mb-4">
-            Welcome to Weather Forecast
+            Welcome to Weather Forecast Application
           </h2>
           <p className="text-white/70 text-lg">
             Search for a city or use your location to get started
